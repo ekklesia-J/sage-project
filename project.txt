@@ -1,1 +1,15 @@
-. 
+ 
+windows command
+mkdir-
+del-
+dir-
+rmdir-
+
+Linux command
+ls-
+cd-
+cd..
+mv-
+cp-
+
+my name is jossy
