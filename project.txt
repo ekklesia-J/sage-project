@@ -4,6 +4,7 @@ mkdir-
 del-
 dir-
 rmdir-
+cls-
 
 Linux command
 ls-
@@ -11,3 +12,5 @@ cd-
 cd..
 mv-
 cp-
+whoami- it show current user
+
